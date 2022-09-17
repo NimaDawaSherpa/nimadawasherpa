@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Portfolio](nimadawasherpa.com.np)
 
-- 🌱 I’m currently learning **Full Stack Developments.**
+- 🌱 I’m currently learning **Full stack web developments.**
 
 - 👯 I’m looking to collaborate on [Portfolio](nimadawasherpa.com.np)
 
