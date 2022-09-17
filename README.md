@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nima Dawa Sherpa</h1>
+
+<img align="left" alt="coding image" width="100%" height="50%" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif">
+&nbsp; <h1 align="center">Hi 👋, I'm Nima Dawa Sherpa</h1>
 <h3 align="center">A passionate programmer | software developer | application developer | web developer from Nepal</h3>
-<img align="left" alt="coding image" width="100%" height="100%" src="https://arpanneupane.com/static/media/home-image.3693311f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimadawasherpa&label=Profile%20views&color=0e75b6&style=flat" alt="nimadawasherpa" /> </p>
 
