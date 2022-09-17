@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/@nimadawasherpaa" target="blank"><img src="https://img.shields.io/twitter/follow/@nimadawasherpaa?logo=twitter&style=for-the-badge" alt="@nimadawasherpaa" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](nimadawasherpa.com.np)
+- 🔭 I’m currently working on [nimadawasherpa.com.np](nimadawasherpa.com.np)
 
 - 🌱 I’m currently learning **Full stack web developments.**
 
-- 👯 I’m looking to collaborate on [Portfolio](nimadawasherpa.com.np)
+- 👯 I’m looking to collaborate on [nimadawasherpa.com.np](nimadawasherpa.com.np)
 
-- 🤝 I’m looking for help with [Portfolio](nimadawasherpa.com.np)
+- 🤝 I’m looking for help with [nimadawasherpa.com.np](nimadawasherpa.com.np)
 
 - 👨‍💻 All of my projects are available at [nimadawasherpa.com.np](nimadawasherpa.com.np)
 
